@@ -1,0 +1,55 @@
+:root {
+    --bg-color: #FFFFFF;
+    --txt-color: #000000;
+    --detail-placeholder: #cbaee8;
+    --font-main: 'Zen Kaku Gothic New';
+    --font-title: 'Rampart One';
+
+
+}
+
+.body {
+    background-color: var(--bg-color);
+    color: var(--txt-color);
+    font-family: var(--font-main);
+
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+
+}
+
+.title__card {
+    background-color: var(--detail-placeholder);
+    font-family: var(--font-title);
+    font-size: 64px;
+    align-items: center;
+    text-align: center;
+    padding: 1em 0 1em 0;
+
+}
+
+.subtext__principal {
+    font-family: var(--font-main);
+    font-size: 24px;
+    align-items: center;
+    text-align: center;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
